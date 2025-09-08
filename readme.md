@@ -1,0 +1,2 @@
+Author: Kowehn Murphy 
+Purpose: Create a website consisting of five pages using a theme of choice. Using HTML structure, semantics, layout design, and various web features. I will have this website be like a coffee shop website.
